@@ -1,0 +1,421 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* WheelControlDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1260}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{1338, 1555}";
+		};
+	};
+	1D3623250D0F684500981E51 /* WheelControlDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 2751}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{1490, 1516}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* WheelControlDemo */ = {
+		activeExec = 0;
+		executables = (
+			E76C22DE140646AC00B72D97 /* WheelControlDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* WheelControlDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1218}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{1192, 1583}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* WheelControlDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 2793}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{0, 2460}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E76C22DE140646AC00B72D97 /* WheelControlDemo */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* WheelControlDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* WheelControlDemo */,
+		);
+		codeSenseManager = E76C22F5140646BE00B72D97 /* Code sense */;
+		executables = (
+			E76C22DE140646AC00B72D97 /* WheelControlDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 336046343;
+			PBXWorkspaceStateSaveDate = 336046343;
+		};
+		perUserProjectItems = {
+			E730A1EB1407A9DB0034B184 /* PBXBookmark */ = E730A1EB1407A9DB0034B184 /* PBXBookmark */;
+			E730A1EC1407A9DB0034B184 /* PBXBookmark */ = E730A1EC1407A9DB0034B184 /* PBXBookmark */;
+			E730A1ED1407A9DB0034B184 /* PBXTextBookmark */ = E730A1ED1407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1EE1407A9DB0034B184 /* PBXTextBookmark */ = E730A1EE1407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1EF1407A9DB0034B184 /* PBXTextBookmark */ = E730A1EF1407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1F01407A9DB0034B184 /* PBXTextBookmark */ = E730A1F01407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1F11407A9DB0034B184 /* PBXTextBookmark */ = E730A1F11407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1F21407A9DB0034B184 /* PBXTextBookmark */ = E730A1F21407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1F31407A9DB0034B184 /* PBXTextBookmark */ = E730A1F31407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1F41407A9DB0034B184 /* PBXTextBookmark */ = E730A1F41407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1F51407A9DB0034B184 /* PBXTextBookmark */ = E730A1F51407A9DB0034B184 /* PBXTextBookmark */;
+			E730A1F61407A9DB0034B184 /* PBXTextBookmark */ = E730A1F61407A9DB0034B184 /* PBXTextBookmark */;
+			E76C230814064A2300B72D97 = E76C230814064A2300B72D97 /* PBXTextBookmark */;
+			E76C230914064A2300B72D97 = E76C230914064A2300B72D97 /* PBXTextBookmark */;
+			E76C235D14064F0300B72D97 = E76C235D14064F0300B72D97 /* PBXTextBookmark */;
+			E76C23751406589300B72D97 = E76C23751406589300B72D97 /* PBXTextBookmark */;
+			E76C23771406589300B72D97 = E76C23771406589300B72D97 /* PBXTextBookmark */;
+			E76C238B14065B1D00B72D97 = E76C238B14065B1D00B72D97 /* PBXTextBookmark */;
+			E76C239B14065CD900B72D97 = E76C239B14065CD900B72D97 /* PBXBookmark */;
+			E76C239C14065CD900B72D97 = E76C239C14065CD900B72D97 /* PBXBookmark */;
+			E76C23D61406655F00B72D97 = E76C23D61406655F00B72D97 /* PBXTextBookmark */;
+			E76C23D71406655F00B72D97 = E76C23D71406655F00B72D97 /* PBXTextBookmark */;
+			E76C23D81406655F00B72D97 = E76C23D81406655F00B72D97 /* PBXTextBookmark */;
+			E76C23D91406655F00B72D97 = E76C23D91406655F00B72D97 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E76C22F4140646BE00B72D97 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1155}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{0, 2460}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* WheelControlDemo_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1052, 801}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 201}";
+		};
+	};
+	E730A1EB1407A9DB0034B184 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E76C239414065C5800B72D97 /* color_wheel.gif */;
+	};
+	E730A1EC1407A9DB0034B184 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E76C239314065C5800B72D97 /* arrow.jpg */;
+	};
+	E730A1ED1407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22F71406470600B72D97 /* Marker.h */;
+		name = "Marker.h: 1";
+		rLen = 0;
+		rLoc = 6;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	E730A1EE1407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22F81406470600B72D97 /* Marker.m */;
+		name = "Marker.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 240;
+		vrLoc = 0;
+	};
+	E730A1EF1407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22F91406470600B72D97 /* WheelControl.h */;
+		name = "WheelControl.h: 45";
+		rLen = 0;
+		rLoc = 3294;
+		rType = 0;
+		vrLen = 879;
+		vrLoc = 242;
+	};
+	E730A1F01407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22FA1406470600B72D97 /* WheelControl.m */;
+		name = "WheelControl.m: 288";
+		rLen = 0;
+		rLoc = 11215;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 0;
+	};
+	E730A1F11407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22FB1406470600B72D97 /* WheelControlDelegate.h */;
+		name = "WheelControlDelegate.h: 10";
+		rLen = 0;
+		rLoc = 2548;
+		rType = 0;
+		vrLen = 468;
+		vrLoc = 0;
+	};
+	E730A1F21407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* WheelControlDemoAppDelegate.h */;
+		name = "WheelControlDemoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	E730A1F31407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* WheelControlDemoAppDelegate.m */;
+		name = "WheelControlDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1261;
+		vrLoc = 0;
+	};
+	E730A1F41407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* WheelControlDemoViewController.h */;
+		name = "WheelControlDemoViewController.h: 18";
+		rLen = 0;
+		rLoc = 2767;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	E730A1F51407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WheelControlDemoViewController.m */;
+		name = "WheelControlDemoViewController.m: 105";
+		rLen = 0;
+		rLoc = 4883;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 609;
+	};
+	E730A1F61407A9DB0034B184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WheelControlDemoViewController.m */;
+		name = "WheelControlDemoViewController.m: 33";
+		rLen = 0;
+		rLoc = 3095;
+		rType = 0;
+		vrLen = 1063;
+		vrLoc = 728;
+	};
+	E76C22DE140646AC00B72D97 /* WheelControlDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WheelControlDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E76C22F4140646BE00B72D97 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E76C22F5140646BE00B72D97 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E76C22F71406470600B72D97 /* Marker.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1197}}";
+			sepNavSelRange = "{1929, 0}";
+			sepNavVisRange = "{411, 2109}";
+		};
+	};
+	E76C22F81406470600B72D97 /* Marker.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1218}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{1192, 1440}";
+		};
+	};
+	E76C22F91406470600B72D97 /* WheelControl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1974}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{1998, 1002}";
+		};
+	};
+	E76C22FA1406470600B72D97 /* WheelControl.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 7854}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{1490, 1308}";
+		};
+	};
+	E76C22FB1406470600B72D97 /* WheelControlDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1239}}";
+			sepNavSelRange = "{2522, 0}";
+			sepNavVisRange = "{1264, 1583}";
+		};
+	};
+	E76C230814064A2300B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22F71406470600B72D97 /* Marker.h */;
+		name = "Marker.h: 1";
+		rLen = 0;
+		rLoc = 6;
+		rType = 0;
+		vrLen = 294;
+		vrLoc = 0;
+	};
+	E76C230914064A2300B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22F81406470600B72D97 /* Marker.m */;
+		name = "Marker.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	E76C235D14064F0300B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* WheelControlDemoAppDelegate.h */;
+		name = "WheelControlDemoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 514;
+		vrLoc = 0;
+	};
+	E76C23751406589300B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* WheelControlDemoAppDelegate.m */;
+		name = "WheelControlDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 2182;
+	};
+	E76C23771406589300B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22F91406470600B72D97 /* WheelControl.h */;
+		name = "WheelControl.h: 50";
+		rLen = 0;
+		rLoc = 3461;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	E76C238B14065B1D00B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* WheelControlDemoViewController.h */;
+		name = "WheelControlDemoViewController.h: 18";
+		rLen = 0;
+		rLoc = 2767;
+		rType = 0;
+		vrLen = 400;
+		vrLoc = 0;
+	};
+	E76C239314065C5800B72D97 /* arrow.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = arrow.jpg;
+		path = /Users/Praum/Projects/svn/WheelControlDemo/images/arrow.jpg;
+		sourceTree = "<absolute>";
+	};
+	E76C239B14065CD900B72D97 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E76C239414065C5800B72D97 /* color_wheel.gif */;
+	};
+	E76C239C14065CD900B72D97 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E76C239314065C5800B72D97 /* arrow.jpg */;
+	};
+	E76C23D61406655F00B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22FA1406470600B72D97 /* WheelControl.m */;
+		name = "WheelControl.m: 298";
+		rLen = 8;
+		rLoc = 10385;
+		rType = 0;
+		vrLen = 1095;
+		vrLoc = 4864;
+	};
+	E76C23D71406655F00B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E76C22FB1406470600B72D97 /* WheelControlDelegate.h */;
+		name = "WheelControlDelegate.h: 10";
+		rLen = 0;
+		rLoc = 2548;
+		rType = 0;
+		vrLen = 468;
+		vrLoc = 0;
+	};
+	E76C23D81406655F00B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WheelControlDemoViewController.m */;
+		name = "WheelControlDemoViewController.m: 105";
+		rLen = 0;
+		rLoc = 4883;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 2211;
+	};
+	E76C23D91406655F00B72D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* WheelControlDemoViewController.m */;
+		name = "WheelControlDemoViewController.m: 105";
+		rLen = 0;
+		rLoc = 4883;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 2269;
+	};
+}
